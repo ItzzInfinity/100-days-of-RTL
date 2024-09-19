@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.srcs/sources_1/new/basic_gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.srcs/sim_1/new/basic_gates_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

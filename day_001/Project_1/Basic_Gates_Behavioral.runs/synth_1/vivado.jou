@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Sep 15 21:17:18 2024
+# Process ID: 37749
+# Current directory: /home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.runs/synth_1
+# Command line: vivado -log basic_gates.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source basic_gates.tcl
+# Log file: /home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.runs/synth_1/basic_gates.vds
+# Journal file: /home/itzzinfinity/Xilinx/study/100daysofRTL/day_001/Basic_Gates_Behavioral.runs/synth_1/vivado.jou
+# Running On        :infinity-s-thinkpad
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.4 LTS
+# Processor Detail  :AMD Ryzen 5 5500U with Radeon Graphics
+# CPU Frequency     :4028.831 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7068 MB
+# Swap memory       :0 MB
+# Total Virtual     :7068 MB
+# Available Virtual :2169 MB
+#-----------------------------------------------------------
+source basic_gates.tcl -notrace

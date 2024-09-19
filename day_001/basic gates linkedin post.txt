@@ -1,0 +1,10 @@
+🚀 Day 1 of #100DaysOfRTL: Starting Strong with Basic Gates!
+
+Excited to share that I’ve kicked off my 100-day journey into RTL design! 🎉 Today, I explored the fundamentals by creating basic logic gates (AND, OR, NAND, NOR, XOR, XNOR) using the behavioral design style in Verilog. This foundational work sets the stage for more advanced digital design challenges ahead.
+
+I’ll be sharing my code, testbench, and waveform analysis via a detailed PDF—stay tuned! 📈
+
+Looking forward to sharpening my skills in RTL design, and I can’t wait to see where this challenge leads!
+
+#RTLDesign #Verilog #FPGA #ASICDesign #HardwareDesign #DigitalDesign #FPGADevelopment #TechJourney #LearningEveryDay #100DaysOfCode #STEM
+
