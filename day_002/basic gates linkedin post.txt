@@ -1,9 +1,0 @@
-🚀 Day 2 of #100DaysOfRTL: Structural Design of Basic Gates 🚀
-
-Today, I built basic logic gates (AND, OR, NAND, NOR, XOR, XNOR) using the structural design style in Verilog. It's been a great experience getting hands-on with more in-depth digital design techniques. Each day is sharpening my understanding of how RTL design can be structured at a fundamental level.
-
-🔗 Check out the full project on GitHub: [GitHub Link]
-
-Excited to continue exploring more complex designs in the days to come! 💻
-
-#RTLDesign #FPGA #ASICDesign #Verilog #HardwareDesign #DigitalDesign #FPGADevelopment #LearningJourney #100DaysOfCode #TechExploration #STEM
