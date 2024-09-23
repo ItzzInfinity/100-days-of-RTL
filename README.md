@@ -8,6 +8,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 
 - **Day 1**: Basic Gates using Behavioral Design
 - **Day 2**: Basic Gates using Structural Design
+- **Day 3**: Basic Gates using Gate Level Design
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
