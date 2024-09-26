@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time: 0 | in = 0 | detected = 0 
+Time: 30000 | in = 1 | detected = 0 
+Time: 50000 | in = 0 | detected = 0 
+Time: 55000 | in = 0 | detected = 1 
+Time: 65000 | in = 0 | detected = 0 
+Time: 80000 | in = 1 | detected = 0 
+Time: 110000 | in = 0 | detected = 0 
+$stop called at time : 120 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_066/project_1/project_1.srcs/sim_1/new/sequence_counter_0110_tb.v" Line 40
