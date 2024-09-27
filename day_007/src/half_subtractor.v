@@ -1,0 +1,16 @@
+`timescale 10ns / 10ps
+//////////////////////////////////////////////////////////////////////////////////
+// Engineer: Anjan Prasad
+// Create Date: 09/28/2024 10:15:06 PM
+// Module Name: half_subtractor
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module half_subtractor ( 
+   input X, 
+   input Y, 
+   output D,
+	output Bout);
+	assign Bout = ~X & Y;
+	assign D = (X ^ Y);
+	endmodule
