@@ -6,34 +6,69 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 module parallel_add_sub_tb;
-   reg [15:0] x, y;
+    reg [15:0] x, y;
     reg selAddSub;
     wire [15:0] s;
     wire cout;
+    reg Cin;
+
     parallel_adder_subtractor_16b dut (
         .x(x),
         .y(y),
         .selAddSub(selAddSub),
         .s(s),
-        .cout(cout)
+        .cout(cout),.Cin(Cin)
     );
-    initial begin
-        
-        $display("x    y    selAddSub | s    cout");
-        $monitor("%d %d %b | %d %b", x, y, selAddSub, s, cout);
 
-        // Generate random values for addition (selAddSub = 0) and subtraction (selAddSub = 1)
-        repeat (10) begin
-            selAddSub = 1'b0;  // Test addition
-            x = $random ;  
-            y = $random ;  
-            #10;
-            selAddSub = 1'b1;  // Test subtraction
-            x = $random ;  
-            y = $random ;  
-            #10;
-        end
+    initial begin
+        $display("x         y        Cin    selAddSub       | s         cout");
+        $monitor("x = %d, y = %d, Cin =%b    selAddSub = %b | s = %d, cout = %b", x, y,Cin, selAddSub, s, cout);
+        #10 x = 16'd32565; y = 16'd11323; selAddSub =1'b0; Cin = 0;
+        #10 x = 16'd19136; y = 16'd11323; selAddSub =1'b1; Cin = 0;
+        #10 x = 16'd43210; y = 16'd1323; selAddSub =1'b0;  Cin = 0;
+        #10 x = 16'd32565; y = 16'd23320; selAddSub =1'b1; Cin = 0;
+        #10 x = 16'd16565; y = 16'd10353; selAddSub =1'b0; Cin = 0;
+        #10 x = 16'd42565; y = 16'd11323; selAddSub =1'b0; Cin = 0;
+        #10 x = 16'd49136; y = 16'd11323; selAddSub =1'b1; Cin = 0;
+        #10 x = 16'd51210; y = 16'd1323; selAddSub =1'b0;  Cin = 0;
+        #10 x = 16'd42565; y = 16'd23320; selAddSub =1'b1; Cin = 0;
+        #10 x = 16'd56565; y = 16'd10353; selAddSub =1'b0; Cin = 0;     
+
         $finish;
     end
-
 endmodule
+
+
+
+//module parallel_add_sub_tb;
+//   reg [15:0] x, y;
+//    reg selAddSub;
+//    wire [15:0] s;
+//    wire cout;
+//    parallel_adder_subtractor_16b dut (
+//        .x(x),
+//        .y(y),
+//        .selAddSub(selAddSub),
+//        .s(s),
+//        .cout(cout)
+//    );
+//    initial begin
+        
+//        $display("x    y    selAddSub | s    cout");
+//        $monitor("%d %d %b | %d %b", x, y, selAddSub, s, cout);
+
+//        // Generate random values for addition (selAddSub = 0) and subtraction (selAddSub = 1)
+//        repeat (10) begin
+//            selAddSub = 1'b0;  // Test addition
+//            x = $random ;  
+//            y = $random ;  
+//            #10;
+//            selAddSub = 1'b1;  // Test subtraction
+//            x = $random ;  
+//            y = $random ;  
+//            #10;
+//        end
+//        $finish;
+//    end
+
+//endmodule

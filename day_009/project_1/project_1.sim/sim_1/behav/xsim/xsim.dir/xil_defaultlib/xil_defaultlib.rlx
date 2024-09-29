@@ -3,7 +3,7 @@
 May 22 2024
 18:54:44
 /home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
-,,,,,,parallel_add_sub_tb,,,,,,,,
-/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/full_adder.v,1726674598,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_4b.v,,full_adder,,,,,,,,
-/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_4b.v,1726747157,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_subtractor_16b.v,,parallel_adder_4b,,,,,,,,
-/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_subtractor_16b.v,1726674452,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sim_1/new/parallel_add_sub_tb.v,,parallel_adder_subtractor_16b,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sim_1/new/parallel_add_sub_tb.v,1727611024,verilog,,,,parallel_add_sub_tb,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/full_adder.v,1727060942,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_4b.v,,full_adder,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_4b.v,1727603518,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_subtractor_16b.v,,parallel_adder_4b,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sources_1/new/parallel_adder_subtractor_16b.v,1727610598,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_009/project_1/project_1.srcs/sim_1/new/parallel_add_sub_tb.v,,parallel_adder_subtractor_16b,,,,,,,,
