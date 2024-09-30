@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Sep 21 18:07:12 2024
+# Process ID: 11998
+# Current directory: /home/itzzinfinity/Cozy Drive/100daysofRTL/day_014/project_1/project_1.runs/synth_1
+# Command line: vivado -log ripple_carry_adder_4bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ripple_carry_adder_4bit.tcl
+# Log file: /home/itzzinfinity/Cozy Drive/100daysofRTL/day_014/project_1/project_1.runs/synth_1/ripple_carry_adder_4bit.vds
+# Journal file: /home/itzzinfinity/Cozy Drive/100daysofRTL/day_014/project_1/project_1.runs/synth_1/vivado.jou
+# Running On        :infinity-s-thinkpad
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.4 LTS
+# Processor Detail  :AMD Ryzen 5 5500U with Radeon Graphics
+# CPU Frequency     :4002.643 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :7068 MB
+# Swap memory       :0 MB
+# Total Virtual     :7068 MB
+# Available Virtual :2125 MB
+#-----------------------------------------------------------
+source ripple_carry_adder_4bit.tcl -notrace

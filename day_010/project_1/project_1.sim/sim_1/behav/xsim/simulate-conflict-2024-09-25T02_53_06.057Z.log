@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+A  +  B  (Cin)   =    Sum    Cout
+ 0 +  0  (0)    =     0              0
+ 4 +  1  (1)    =     6              0
+ 3 + 13  (1)    =     1             16
+ 5 +  2  (1)    =     8              0
+13 +  6  (1)    =     4             16
+13 + 12  (1)    =    10             16
+ 6 +  5  (0)    =    11              0
+ 5 +  7  (0)    =    12              0
+15 +  2  (0)    =     1             16
+ 8 +  5  (0)    =    13              0
+$finish called at time : 105 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_010/project_1/project_1.srcs/sim_1/new/RCA_tb.v" Line 27
