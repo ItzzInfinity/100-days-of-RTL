@@ -9,18 +9,19 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 1**: Basic Gates using Behavioral Design
 - **Day 2**: Basic Gates using Structural Design
 - **Day 3**: Basic Gates using Gate Level Design
+- **Day 4**: *MOS Inverter Design & Testbench*  
+- **Day 5**: *Random Boolean Expression (ABC + A'C' + D)* 
+- **Day 6**: *Half Adder & Full Adder*  
+- **Day 7**: *Half Subtractor & Full Subtractor*
+- **Day 8**: *4-bit Parallel Adder with Control Input*
+- **Day 10**: *Ripple Carry Adder using 4 Full Adders*
+- **Day 11**: *4-bit Binary Multiplier with Adder-Based Partial Product Summation*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
 
 - **Vivado 2024.1** 🛠️
   - The designs will be synthesized and simulated using the latest version of Xilinx Vivado (2024.1).
-
-## 📂 Repository Structure
-
-- `day_001/`: Contains the design and testbench for Day 1.
-- `day_002/`: Contains the design and testbench for Day 2.
-- *... (New directories will be added for each day)*
 
 ## 📜 License
 
