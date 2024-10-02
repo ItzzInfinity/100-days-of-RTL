@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+a=0, b=0, cin=0, bin=0 | sum_half=0, carry_half=0, sum_full=0, carry_full=1, diff_half=0, borrow_half=1, diff_full=0, borrow_full=0
+a=0, b=1, cin=0, bin=0 | sum_half=1, carry_half=0, sum_full=1, carry_full=1, diff_half=1, borrow_half=0, diff_full=1, borrow_full=1
+a=1, b=0, cin=0, bin=1 | sum_half=1, carry_half=0, sum_full=1, carry_full=1, diff_half=1, borrow_half=1, diff_full=0, borrow_full=0
+a=1, b=1, cin=1, bin=1 | sum_half=0, carry_half=1, sum_full=1, carry_full=1, diff_half=0, borrow_half=1, diff_full=1, borrow_full=1
+a=0, b=1, cin=1, bin=0 | sum_half=1, carry_half=0, sum_full=0, carry_full=1, diff_half=1, borrow_half=0, diff_full=1, borrow_full=1
+a=1, b=0, cin=1, bin=0 | sum_half=1, carry_half=0, sum_full=0, carry_full=1, diff_half=1, borrow_half=1, diff_full=1, borrow_full=0
+a=1, b=1, cin=1, bin=1 | sum_half=0, carry_half=1, sum_full=1, carry_full=1, diff_half=0, borrow_half=1, diff_full=1, borrow_full=1
+$finish called at time : 70 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_011/project_1/project_1.srcs/sim_1/new/top_module_tb.v" Line 36
