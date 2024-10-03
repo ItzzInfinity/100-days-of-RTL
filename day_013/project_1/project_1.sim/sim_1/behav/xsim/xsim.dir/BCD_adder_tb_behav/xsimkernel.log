@@ -1,0 +1,4 @@
+Running: xsim.dir/BCD_adder_tb_behav/xsimk -simmode gui -wdb BCD_adder_tb_behav.wdb -simrunnum 0 -socket 43411
+Design successfully loaded
+Design Loading Memory Usage: 20256 KB (Peak: 20716 KB)
+Design Loading CPU Usage: 70 ms
