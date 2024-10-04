@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time = 0 | Dividend = 12 | Divisor =  3 | Quotient =  4 | Remainder =  0
+Time = 10000 | Dividend =  9 | Divisor =  4 | Quotient =  2 | Remainder =  1
+Time = 20000 | Dividend =  7 | Divisor =  2 | Quotient =  3 | Remainder =  1
+Time = 30000 | Dividend = 15 | Divisor =  5 | Quotient =  3 | Remainder =  0
+$finish called at time : 40 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_014/project_1/project_1.srcs/sim_1/new/divider_4b_tb.v" Line 49
