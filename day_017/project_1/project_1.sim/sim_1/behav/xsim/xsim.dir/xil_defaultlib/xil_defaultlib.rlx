@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sim_1/new/csa_tb.v,1727624511,verilog,,,,csa_tb,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sources_1/new/carry_select_adder.v,1727624493,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sources_1/new/full_adder.v,,carry_select_adder,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sources_1/new/full_adder.v,1727622498,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sources_1/new/mux.v,,full_adder,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sources_1/new/mux.v,1727624598,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sim_1/new/csa_tb.v,,mux,,,,,,,,

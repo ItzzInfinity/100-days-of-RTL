@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a  +  b , Cin = add | sum  cout
+ 8 +  3 , 0  = 11  | 11   0
+ 3 + 10 , 1  = 14  | 14   0
+ 6 +  6 , 0  = 12  | 12   0
+ 7 + 14 , 0  = 21  |  5   1
+11 +  6 , 1  = 18  |  2   1
+ 9 +  4 , 0  = 13  | 13   0
+14 + 14 , 1  = 29  | 13   1
+$finish called at time : 70 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_017/project_1/project_1.srcs/sim_1/new/csa_tb.v" Line 32
