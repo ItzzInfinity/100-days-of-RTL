@@ -1,0 +1,36 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/itzzinfinity/Xilinx/Vivado/2024.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot carry_save_adder_tb_behav xil_defaultlib.carry_save_adder_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-9543] actual bit length 32 differs from formal bit length 1 for port 'cin' [/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/carry_save_adder.v:27]
+WARNING: [VRFC 10-9543] actual bit length 32 differs from formal bit length 1 for port 'b' [/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/carry_save_adder.v:30]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/carry_save_adder.v" Line 9. Module carry_save_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/carry_save_adder.v" Line 9. Module carry_save_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v" Line 1. Module full_adder doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.full_adder
+Compiling module xil_defaultlib.carry_save_adder
+Compiling module xil_defaultlib.carry_save_adder_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot carry_save_adder_tb_behav

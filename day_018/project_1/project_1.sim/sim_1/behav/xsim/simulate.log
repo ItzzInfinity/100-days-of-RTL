@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time = 0 | a =  1, b =  2, c =  4 | sum =  7, cout = 0
+Time = 10000 | a = 10, b =  7, c =  3 | sum = 20, cout = 0
+Time = 20000 | a = 15, b = 15, c = 15 | sum = 45, cout = 1
+Time = 30000 | a =  0, b =  0, c =  1 | sum =  1, cout = 0
+Time = 40000 | a =  9, b =  6, c =  2 | sum = 17, cout = 0
+Time = 50000 | a =  0, b = 15, c = 15 | sum = 30, cout = 0
+Time = 60000 | a = 15, b =  0, c = 15 | sum = 30, cout = 0
+Time = 70000 | a = 15, b = 15, c =  0 | sum = 30, cout = 0
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sim_1/new/carry_save_adder_tb.v" Line 33

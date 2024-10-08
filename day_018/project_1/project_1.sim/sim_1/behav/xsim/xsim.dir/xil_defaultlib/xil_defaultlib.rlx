@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sim_1/new/carry_save_adder_tb.v,1727630842,verilog,,,,carry_save_adder_tb,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/carry_save_adder.v,1727707050,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v,,carry_save_adder,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/full_adder.v,1727628006,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sim_1/new/carry_save_adder_tb.v,,full_adder,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sources_1/new/ripple_carry_adder_4bit.v,1727629738,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/day_018/project_1/project_1.srcs/sim_1/new/carry_save_adder_tb.v,,ripple_carry_adder_4bit,,,,,,,,
