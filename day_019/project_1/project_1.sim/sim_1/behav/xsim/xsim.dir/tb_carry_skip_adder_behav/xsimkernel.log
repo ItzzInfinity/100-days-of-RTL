@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_carry_skip_adder_behav/xsimk -simmode gui -wdb tb_carry_skip_adder_behav.wdb -simrunnum 0 -socket 42385
+Design successfully loaded
+Design Loading Memory Usage: 20252 KB (Peak: 20716 KB)
+Design Loading CPU Usage: 60 ms
+Simulation completed
+Simulation Memory Usage: 101988 KB (Peak: 159520 KB)
+Simulation CPU Usage: 110 ms

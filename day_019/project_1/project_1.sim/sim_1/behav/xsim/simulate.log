@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time=0 | a= 1, b= 2, c=0 | total= 3  | sum= 3, cout=0
+Time=10000 | a= 6, b= 5, c=0 | total=11  | sum=11, cout=0
+Time=20000 | a=15, b= 1, c=1 | total=17  | sum= 1, cout=1
+Time=30000 | a=10, b= 5, c=1 | total=16  | sum= 0, cout=1
+Time=40000 | a=15, b=15, c=0 | total=14  | sum=14, cout=0
+Time=50000 | a=12, b= 3, c=1 | total=16  | sum= 0, cout=1
+$stop called at time : 60 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_019/project_1/project_1.srcs/sim_1/new/tb_carry_skip_adder.v" Line 54
