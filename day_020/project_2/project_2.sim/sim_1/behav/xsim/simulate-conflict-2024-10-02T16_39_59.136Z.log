@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+For digit  36 (00100100) the generated parity bit is --> 0 & error --> 0
+For digit 129 (10000001) the generated parity bit is --> 0 & error --> 0
+For digit   9 (00001001) the generated parity bit is --> 0 & error --> 0
+For digit  99 (01100011) the generated parity bit is --> 0 & error --> 0
+For digit  13 (00001101) the generated parity bit is --> 1 & error --> 0
+For digit 114 (01110010) the generated parity bit is --> 1 & error --> 1
+For digit 172 (10101100) the generated parity bit is --> 1 & error --> 1
+For digit  89 (01011001) the generated parity bit is --> 1 & error --> 1
+For digit  31 (00011111) the generated parity bit is --> 1 & error --> 0
+For digit  15 (00001111) the generated parity bit is --> 1 & error --> 1
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/project_2/project_2.srcs/sim_1/new/even_parity_check_tb.v" Line 32

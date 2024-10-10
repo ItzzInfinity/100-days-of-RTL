@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+For digit 129 (10000001) the parity bit is --> 0
+For digit   9 (00001001) the parity bit is --> 0
+For digit  99 (01100011) the parity bit is --> 0
+For digit  13 (00001101) the parity bit is --> 1
+For digit 141 (10001101) the parity bit is --> 0
+For digit 101 (01100101) the parity bit is --> 0
+For digit  18 (00010010) the parity bit is --> 0
+For digit   1 (00000001) the parity bit is --> 1
+For digit  13 (00001101) the parity bit is --> 1
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_020/project_1/project_1.srcs/sim_1/new/even_parity_gen_tb.v" Line 20
