@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+in between  a  and  b    A_lessThan_B  A_greaterThan_B  A_equalTo_B 
+             x        x    x            x                x 
+             4      249    1            0                0 
+           249      251    1            0                0 
+             5        5    0            0                1 
+           253      250    0            1                0 
+             1        5    1            0                0 
+             6        5    0            1                0 
+             5        4    0            1                0 
+             1      254    1            0                0 
+           253      250    0            1                0 
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_021/project_1/project_1.srcs/sim_1/new/N_bit_comp_tb.v" Line 36
