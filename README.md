@@ -17,6 +17,17 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 10**: *Ripple Carry Adder using 4 Full Adders*
 - **Day 11**: *4-bit Binary Multiplier with Adder-Based Partial Product Summation*
 - **Day 12**: *Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gate*
+- **Day 13**: *BCD adder Using Verilog.*
+- **Day 14**: *4 Bit Divider*
+- **Day 15**: *4 Bit Magnitude Comparator*
+- **Day 16**: *Carry Look Ahead Generator*
+- **Day 17**: *Carry Select Adder*
+- **Day 18**: *Carry Save Adder*
+- **Day 19**: *Carry Skip Adder*
+- **Day 20**: *Even Parity Generator and Checker*
+- **Day 21**: *N bit Comparator*
+- **Day 22**: *Multiplexer [2:1]*
+- **Day 23**: *[4:1] Mux using [2:1]*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
