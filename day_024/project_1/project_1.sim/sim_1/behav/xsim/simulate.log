@@ -1,0 +1,19 @@
+Time resolution is 1 ps
+The value of y is x when a =     x (xxxxxxxxxxxxxxxx) & sel =  x
+The value of y is 0 when a =     0 (0000000000000000) & sel =  0
+The value of y is 1 when a =     2 (0000000000000010) & sel =  1
+The value of y is 1 when a =     4 (0000000000000100) & sel =  2
+The value of y is 1 when a =     8 (0000000000001000) & sel =  3
+The value of y is 1 when a =    16 (0000000000010000) & sel =  4
+The value of y is 1 when a =    32 (0000000000100000) & sel =  5
+The value of y is 1 when a =    64 (0000000001000000) & sel =  6
+The value of y is 1 when a =   128 (0000000010000000) & sel =  7
+The value of y is 1 when a =   256 (0000000100000000) & sel =  8
+The value of y is 1 when a =   512 (0000001000000000) & sel =  9
+The value of y is 1 when a =  1024 (0000010000000000) & sel = 10
+The value of y is 1 when a =  2048 (0000100000000000) & sel = 11
+The value of y is 1 when a =  4096 (0001000000000000) & sel = 12
+The value of y is 1 when a =  8192 (0010000000000000) & sel = 13
+The value of y is 1 when a = 16384 (0100000000000000) & sel = 14
+The value of y is 1 when a = 32768 (1000000000000000) & sel = 15
+$finish called at time : 170 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_024/project_1/project_1.srcs/sim_1/new/mux_16_tb.v" Line 51
