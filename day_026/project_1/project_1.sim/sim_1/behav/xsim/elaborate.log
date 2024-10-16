@@ -1,0 +1,30 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/itzzinfinity/Xilinx/Vivado/2024.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mux_gate_tb_behav xil_defaultlib.mux_gate_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" Line 1. Module mux_2_to_1 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux_2_to_1
+Compiling module xil_defaultlib.mux_to_gates
+Compiling module xil_defaultlib.mux_gate_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot mux_gate_tb_behav

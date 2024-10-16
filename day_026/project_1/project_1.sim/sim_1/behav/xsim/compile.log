@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_2_to_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_2_to_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sources_1/new/mux_to_gates.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_to_gates
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_026/project_1/project_1.srcs/sim_1/new/mux_gate_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_gate_tb
