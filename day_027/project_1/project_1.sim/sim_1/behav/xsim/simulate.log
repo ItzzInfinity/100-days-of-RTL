@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a = 0, b = 0, cin = 0, sum = 0, carry = 0
+a = 0, b = 0, cin = 1, sum = 1, carry = 0
+a = 0, b = 1, cin = 0, sum = 1, carry = 0
+a = 0, b = 1, cin = 1, sum = 0, carry = 1
+a = 1, b = 0, cin = 0, sum = 1, carry = 0
+a = 1, b = 0, cin = 1, sum = 0, carry = 1
+a = 1, b = 1, cin = 0, sum = 0, carry = 1
+a = 1, b = 1, cin = 1, sum = 1, carry = 1
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_027/project_1/project_1.srcs/sim_1/new/adder_tb.v" Line 51
