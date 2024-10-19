@@ -29,6 +29,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 22**: *Multiplexer [2:1]*
 - **Day 23**: *[4:1] Mux using [2:1]*
 - **Day 24**: *16x1 Mux using 2x1 Mux by instantiating in Verilog.*
+- **Day 25**: *K:1 Mux using parameter statement (K=64)*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
