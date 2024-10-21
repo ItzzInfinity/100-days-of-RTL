@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+a,  b   lessThan  greaterThan equalTo
+0, 0  0        0          1
+0, 1  0        1          0
+1, 0  1        0          0
+1, 1  0        0          1
+$finish called at time : 40 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_032/project_1/project_1.srcs/sim_1/new/mux_comp_tb.v" Line 21
