@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time = 0 | d = 00000001 | y = 000
+Time = 10000 | d = 00000010 | y = 001
+Time = 20000 | d = 00000100 | y = 010
+Time = 30000 | d = 00001000 | y = 011
+Time = 40000 | d = 00010000 | y = 100
+Time = 50000 | d = 00100000 | y = 101
+Time = 60000 | d = 01000000 | y = 110
+Time = 70000 | d = 10000000 | y = 111
+$stop called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_033/project_1/project_1.srcs/sim_1/new/tb_oct_to_bin.v" Line 28
