@@ -31,6 +31,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 24**: *16x1 Mux using 2x1 Mux by instantiating in Verilog.*
 - **Day 25**: *K:1 Mux using parameter statement (K=64)*
 - **Day 26**: *Logic Gates using Mux*
+- **Day 27**: *Full Adder using Mux*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
