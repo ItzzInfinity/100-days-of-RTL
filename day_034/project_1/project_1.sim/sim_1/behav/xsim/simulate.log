@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Input: 00000000, Output: a=000, g=0, e=1
+Input: 00000001, Output: a=001, g=0, e=1
+Input: 00000100, Output: a=000, g=0, e=1
+Input: 00100000, Output: a=000, g=0, e=1
+Input: 10000000, Output: a=000, g=0, e=1
+Input: 11111111, Output: a=111, g=1, e=0
+Input: 00001111, Output: a=111, g=1, e=1
+$finish called at time : 70 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_034/project_1/project_1.srcs/sim_1/new/tb_IC_74148.v" Line 69
