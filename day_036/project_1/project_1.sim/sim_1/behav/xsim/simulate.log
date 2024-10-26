@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+s = 00, so at the output y0 = 1,y1 = 0,y2 = 0,y3 = 0,y4 = 0,y5 = 0,y6 = 0,y7 = 0 
+s = 01, so at the output y0 = 0,y1 = 1,y2 = 0,y3 = 0,y4 = 0,y5 = 0,y6 = 0,y7 = 0 
+s = 10, so at the output y0 = 0,y1 = 0,y2 = 1,y3 = 0,y4 = 0,y5 = 0,y6 = 0,y7 = 0 
+s = 11, so at the output y0 = 0,y1 = 0,y2 = 0,y3 = 1,y4 = 0,y5 = 0,y6 = 0,y7 = 0 
+s = 00, so at the output y0 = 0,y1 = 0,y2 = 0,y3 = 0,y4 = 1,y5 = 0,y6 = 0,y7 = 0 
+s = 01, so at the output y0 = 0,y1 = 0,y2 = 0,y3 = 0,y4 = 0,y5 = 1,y6 = 0,y7 = 0 
+s = 10, so at the output y0 = 0,y1 = 0,y2 = 0,y3 = 0,y4 = 0,y5 = 0,y6 = 1,y7 = 0 
+s = 11, so at the output y0 = 0,y1 = 0,y2 = 0,y3 = 0,y4 = 0,y5 = 0,y6 = 0,y7 = 1 
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_036/project_1/project_1.srcs/sim_1/new/three_to_eight_decoder_tb.v" Line 27
