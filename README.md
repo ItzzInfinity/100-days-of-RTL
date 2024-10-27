@@ -32,6 +32,15 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 25**: *K:1 Mux using parameter statement (K=64)*
 - **Day 26**: *Logic Gates using Mux*
 - **Day 27**: *Full Adder using Mux*
+- **Day 28**: *DeMultiplexer [1:2]*
+- **Day 29**: *DeMultiplexer[1:8] using [1:2]*
+- **Day 30**: *1:32 Demultiplexer Using Verilog.*
+- **Day 31**: *Logic Gates using Dmux*
+- **Day 32**: *1-Bit Comparator Using 4x1 Mux.*
+- **Day 33**: *Octal to binary Converter - Encoder [8:3]*
+- **Day 34**: *Priority Encoder*
+- **Day 35**: *Decoder [3:8]*
+- **Day 36**: *3x8 Decoder using 2x4 Decoder.*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
