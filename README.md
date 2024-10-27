@@ -14,6 +14,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 6**: *Half Adder & Full Adder*  
 - **Day 7**: *Half Subtractor & Full Subtractor*
 - **Day 8**: *4-bit Parallel Adder with Control Input*
+- **Day 9**: *16-BIT ADDER AND SUBTRACTOR with Control input.*
 - **Day 10**: *Ripple Carry Adder using 4 Full Adders*
 - **Day 11**: *4-bit Binary Multiplier with Adder-Based Partial Product Summation*
 - **Day 12**: *Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gate*
