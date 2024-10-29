@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time = 0, BCD = 0000, Decimal = 0000000001
+Time = 10000, BCD = 0001, Decimal = 0000000010
+Time = 20000, BCD = 0010, Decimal = 0000000100
+Time = 30000, BCD = 0011, Decimal = 0000001000
+Time = 40000, BCD = 0100, Decimal = 0000010000
+Time = 50000, BCD = 0101, Decimal = 0000100000
+Time = 60000, BCD = 0110, Decimal = 0001000000
+Time = 70000, BCD = 0111, Decimal = 0010000000
+Time = 80000, BCD = 1000, Decimal = 0100000000
+Time = 90000, BCD = 1001, Decimal = 1000000000
+Time = 100000, BCD = 1010, Decimal = 0000000000
+Time = 110000, BCD = 1100, Decimal = 0000000000
+$finish called at time : 120 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_038/project_1/project_1.srcs/sim_1/new/tb_BCD_to_decimal.v" Line 34
