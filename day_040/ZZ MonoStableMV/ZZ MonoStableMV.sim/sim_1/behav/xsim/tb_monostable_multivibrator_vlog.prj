@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ZZ MonoStableMV.srcs/sources_1/new/monostable_multivibrator.v" \
+"../../../../ZZ MonoStableMV.srcs/sim_1/new/tb_monostable_multivibrator.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

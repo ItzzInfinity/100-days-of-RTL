@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time = 0 | Reset = 1 | Trigger = 0 | Output = 0
+Time = 20000 | Reset = 0 | Trigger = 0 | Output = 0
+Time = 50000 | Reset = 0 | Trigger = 1 | Output = 0
+Time = 55000 | Reset = 0 | Trigger = 1 | Output = 1
+Time = 60000 | Reset = 0 | Trigger = 0 | Output = 1
+Time = 160000 | Reset = 0 | Trigger = 1 | Output = 1
+Time = 170000 | Reset = 0 | Trigger = 0 | Output = 1
+Time = 265000 | Reset = 0 | Trigger = 0 | Output = 0
+Time = 370000 | Reset = 0 | Trigger = 1 | Output = 0
+Time = 375000 | Reset = 0 | Trigger = 1 | Output = 1
+Time = 380000 | Reset = 0 | Trigger = 0 | Output = 1
+Time = 585000 | Reset = 0 | Trigger = 0 | Output = 0
+$finish called at time : 880 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_040/ZZ MonoStableMV/ZZ MonoStableMV.srcs/sim_1/new/tb_monostable_multivibrator.v" Line 49
