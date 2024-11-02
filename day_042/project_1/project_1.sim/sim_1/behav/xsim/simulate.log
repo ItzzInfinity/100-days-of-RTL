@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+Binary = 0000, Grey = 0000
+Binary = 0001, Grey = 0001
+Binary = 0010, Grey = 0011
+Binary = 0011, Grey = 0010
+Binary = 0100, Grey = 0110
+Binary = 0101, Grey = 0111
+Binary = 0110, Grey = 0101
+Binary = 0111, Grey = 0100
+Binary = 1000, Grey = 1100
+Binary = 1001, Grey = 1101
+Binary = 1010, Grey = 1111
+Binary = 1011, Grey = 1110
+Binary = 1100, Grey = 1010
+Binary = 1101, Grey = 1011
+Binary = 1110, Grey = 1001
+Binary = 1111, Grey = 1000
+$finish called at time : 160 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_042/project_1/project_1.srcs/sim_1/new/tb_Bin_to_Grey.v" Line 37
