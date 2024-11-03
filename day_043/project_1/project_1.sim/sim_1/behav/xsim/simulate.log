@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+grey = 0000, bin = 0000
+grey = 0001, bin = 0001
+grey = 0010, bin = 0011
+grey = 0011, bin = 0010
+grey = 0100, bin = 0111
+grey = 0101, bin = 0110
+grey = 0110, bin = 0100
+grey = 0111, bin = 0101
+grey = 1000, bin = 1111
+grey = 1001, bin = 1110
+grey = 1010, bin = 1100
+grey = 1011, bin = 1101
+grey = 1100, bin = 1000
+grey = 1101, bin = 1001
+grey = 1110, bin = 1011
+grey = 1111, bin = 1010
+$finish called at time : 160 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_043/project_1/project_1.srcs/sim_1/new/tb_Grey_to_Bin.v" Line 32
