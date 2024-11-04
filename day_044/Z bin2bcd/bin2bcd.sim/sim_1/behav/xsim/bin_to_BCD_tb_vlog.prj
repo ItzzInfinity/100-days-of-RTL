@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../bin2bcd.srcs/sources_1/new/binary_to_BCD.v" \
+"../../../../bin2bcd.srcs/sim_1/new/bin_to_BCD_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
