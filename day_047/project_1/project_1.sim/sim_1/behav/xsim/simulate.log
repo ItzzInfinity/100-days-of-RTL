@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+	 clk: 0  J: x  K: x  Q: x
+	 clk: 1  J: x  K: x  Q: 0
+	 clk: 0  J: 0  K: 0  Q: 0
+	 clk: 1  J: 0  K: 0  Q: 0
+	 clk: 0  J: 0  K: 0  Q: 0
+	 clk: 1  J: 0  K: 0  Q: 0
+	 clk: 0  J: 0  K: 1  Q: 0
+	 clk: 1  J: 0  K: 1  Q: 0
+	 clk: 0  J: 1  K: 0  Q: 0
+	 clk: 1  J: 1  K: 0  Q: 1
+	 clk: 0  J: 1  K: 1  Q: 1
+	 clk: 1  J: 1  K: 1  Q: 0
+	 clk: 0  J: 1  K: 1  Q: 0
+	 clk: 1  J: 1  K: 1  Q: 1
+	 clk: 0  J: 1  K: 1  Q: 1
+	 clk: 1  J: 1  K: 1  Q: 0
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_047/project_1/project_1.srcs/sim_1/new/jk_tb.v" Line 46
