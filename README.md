@@ -42,6 +42,16 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 34**: *Priority Encoder*
 - **Day 35**: *Decoder [3:8]*
 - **Day 36**: *3x8 Decoder using 2x4 Decoder.*
+- **Day 37**: *5x32 Decoder using Verilog.*
+- **Day 38**: *BCD to Decimal Decoder*
+- **Day 39**: *watchdog timer (WDT)*
+- **Day 40**: *Monostable Multivibrator*
+- **Day 41**: *Input Majority Circuit [7 input]*
+- **Day 42**: *Binary to Gray code Converter*
+- **Day 43**: *Gray code to Binary Converter*
+- **Day 44**: *Binary to BCD Converter*
+- **Day 45**: *BCD to 7-Segment Converter*
+- **Day 46**: *SR Latch*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
