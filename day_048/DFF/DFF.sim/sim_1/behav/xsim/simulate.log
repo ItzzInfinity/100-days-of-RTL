@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+	 clk: 0  D: 0  Q: x
+	 clk: 1  D: 0  Q: 0
+	 clk: 0  D: 0  Q: 0
+	 clk: 1  D: 0  Q: 0
+	 clk: 0  D: 0  Q: 0
+	 clk: 1  D: 1  Q: 1
+	 clk: 0  D: 1  Q: 1
+	 clk: 1  D: 1  Q: 1
+	 clk: 1  D: 0  Q: 1
+	 clk: 0  D: 0  Q: 1
+	 clk: 1  D: 0  Q: 0
+	 clk: 0  D: 1  Q: 0
+	 clk: 1  D: 1  Q: 1
+	 clk: 0  D: 1  Q: 1
+	 clk: 0  D: 0  Q: 1
+	 clk: 1  D: 0  Q: 0
+	 clk: 0  D: 0  Q: 0
+	 clk: 1  D: 1  Q: 1
+	 clk: 0  D: 1  Q: 1
+	 clk: 1  D: 1  Q: 1
+	 clk: 1  D: 0  Q: 1
+	 clk: 0  D: 0  Q: 1
+	 clk: 1  D: 0  Q: 0
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_048/DFF/DFF.srcs/sim_1/new/Dff_tb.v" Line 31
