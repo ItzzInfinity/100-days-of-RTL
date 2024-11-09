@@ -1,0 +1,29 @@
+Time resolution is 1 ps
+	 clock: 0  T: 0  Q: x
+	 clock: 1  T: 0  Q: 0
+	 clock: 0  T: 0  Q: 0
+	 clock: 1  T: 0  Q: 0
+	 clock: 0  T: 0  Q: 0
+	 clock: 1  T: 1  Q: 1
+	 clock: 0  T: 1  Q: 1
+	 clock: 1  T: 1  Q: 0
+	 clock: 0  T: 1  Q: 0
+	 clock: 1  T: 1  Q: 1
+	 clock: 0  T: 0  Q: 1
+	 clock: 1  T: 0  Q: 1
+	 clock: 0  T: 0  Q: 1
+	 clock: 0  T: 1  Q: 1
+	 clock: 1  T: 1  Q: 0
+	 clock: 0  T: 1  Q: 0
+	 clock: 1  T: 1  Q: 1
+	 clock: 0  T: 1  Q: 1
+	 clock: 1  T: 1  Q: 0
+	 clock: 1  T: 0  Q: 0
+	 clock: 0  T: 0  Q: 0
+	 clock: 1  T: 0  Q: 0
+	 clock: 0  T: 1  Q: 0
+	 clock: 1  T: 1  Q: 1
+	 clock: 0  T: 1  Q: 1
+	 clock: 1  T: 1  Q: 0
+	 clock: 0  T: 1  Q: 0
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_049/Tff/Tff.srcs/sim_1/new/T_ff_tb.v" Line 34
