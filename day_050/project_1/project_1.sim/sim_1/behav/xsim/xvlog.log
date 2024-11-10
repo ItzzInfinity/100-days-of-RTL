@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_050/src/alu_8bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_8bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_050/src/alu_8bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_alu_8bit

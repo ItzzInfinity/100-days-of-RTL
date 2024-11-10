@@ -1,0 +1,28 @@
+Time resolution is 1 ps
+A = 00001111, B = 00000001, Opcode = 0000 | Result = 00010000, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 01111111, B = 00000001, Opcode = 0000 | Result = 10000000, Carry = 0, Zero = 0, Overflow = 1, Sign = 1
+A = 00001000, B = 00000100, Opcode = 0001 | Result = 00000100, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001000, B = 00001000, Opcode = 0001 | Result = 00000000, Carry = 0, Zero = 1, Overflow = 0, Sign = 0
+A = 00000000, B = 00000001, Opcode = 0001 | Result = 11111111, Carry = 1, Zero = 0, Overflow = 0, Sign = 1
+A = 11001100, B = 10101010, Opcode = 0010 | Result = 10001000, Carry = 0, Zero = 0, Overflow = 0, Sign = 1
+Error: Expected Sign = 0
+A = 11001100, B = 10101010, Opcode = 0011 | Result = 11101110, Carry = 0, Zero = 0, Overflow = 0, Sign = 1
+Error: Expected Sign = 0
+A = 11001100, B = 10101010, Opcode = 0100 | Result = 01100110, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001111, B = 10101010, Opcode = 0101 | Result = 11110000, Carry = 0, Zero = 0, Overflow = 0, Sign = 1
+A = 00001111, B = 10101010, Opcode = 0110 | Result = 00011110, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001111, B = 10101010, Opcode = 0111 | Result = 00000111, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001000, B = 00000100, Opcode = 1000 | Result = 00000000, Carry = 0, Zero = 1, Overflow = 0, Sign = 0
+Error: Expected Zero = 0
+A = 00000100, B = 00001000, Opcode = 1000 | Result = 00000001, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001000, B = 00001000, Opcode = 1001 | Result = 00000001, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001111, B = 00001000, Opcode = 1010 | Result = 00010000, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00000001, B = 00001000, Opcode = 1011 | Result = 00000000, Carry = 0, Zero = 1, Overflow = 0, Sign = 0
+A = 00000000, B = 00001000, Opcode = 1011 | Result = 11111111, Carry = 1, Zero = 0, Overflow = 0, Sign = 1
+A = 00000010, B = 00000010, Opcode = 1100 | Result = 00000100, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001000, B = 00000010, Opcode = 1100 | Result = 00010000, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00001000, B = 00000010, Opcode = 1101 | Result = 00000100, Carry = 0, Zero = 0, Overflow = 0, Sign = 0
+A = 00000000, B = 00000001, Opcode = 1101 | Result = 00000000, Carry = 0, Zero = 1, Overflow = 0, Sign = 0
+A = 00001000, B = 00000000, Opcode = 1101 | Result = 00000000, Carry = 1, Zero = 1, Overflow = 0, Sign = 0
+Error: Expected Zero = 0
+$finish called at time : 220 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_050/src/alu_8bit_tb.v" Line 140
