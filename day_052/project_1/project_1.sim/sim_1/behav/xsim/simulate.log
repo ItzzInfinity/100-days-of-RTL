@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Time = 0 | S = 0, R = 0, D = 0, T = 0 | q_sr = 0, q_d = 0, q_t = 0
+Time = 10000 | S = 0, R = 0, D = 1, T = 1 | q_sr = 0, q_d = 0, q_t = 0
+Time = 15000 | S = 0, R = 0, D = 1, T = 1 | q_sr = 0, q_d = 1, q_t = 1
+Time = 20000 | S = 1, R = 0, D = 0, T = 1 | q_sr = 0, q_d = 1, q_t = 1
+Time = 25000 | S = 1, R = 0, D = 0, T = 1 | q_sr = 1, q_d = 0, q_t = 0
+Time = 30000 | S = 0, R = 1, D = 0, T = 1 | q_sr = 1, q_d = 0, q_t = 0
+Time = 35000 | S = 0, R = 1, D = 0, T = 1 | q_sr = 0, q_d = 0, q_t = 1
+Time = 40000 | S = 0, R = 0, D = 0, T = 1 | q_sr = 0, q_d = 0, q_t = 1
+Time = 45000 | S = 0, R = 0, D = 0, T = 1 | q_sr = 0, q_d = 0, q_t = 0
+Time = 50000 | S = 1, R = 1, D = 0, T = 0 | q_sr = 0, q_d = 0, q_t = 0
+Time = 65000 | S = 1, R = 1, D = 0, T = 0 | q_sr = 1, q_d = 0, q_t = 0
+Time = 70000 | S = 1, R = 0, D = 0, T = 0 | q_sr = 1, q_d = 0, q_t = 0
+Time = 80000 | S = 0, R = 1, D = 0, T = 0 | q_sr = 1, q_d = 0, q_t = 0
+Time = 85000 | S = 0, R = 1, D = 0, T = 0 | q_sr = 0, q_d = 0, q_t = 0
+$stop called at time : 130 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_052/project_1/project_1.srcs/sim_1/new/JK_conversion_tb.v" Line 56
