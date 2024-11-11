@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Testing D Flip-Flop
+Testing T Flip-Flop
+Testing JK Flip-Flop
+q_t: 1
+Final States - q_jk: 0, q_d: 0, q_t: 1
+$stop called at time : 50 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_051/project_1/project_1.srcs/sim_1/new/SR_conversion_tb.v" Line 55
