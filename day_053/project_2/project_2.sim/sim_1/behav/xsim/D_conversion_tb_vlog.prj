@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/D_conversion.v" \
+"../../../../project_2.srcs/sources_1/new/D_flipflop.v" \
+"../../../../project_2.srcs/sources_1/new/JK_flipflop.v" \
+"../../../../project_2.srcs/sources_1/new/SR_flipflop.v" \
+"../../../../project_2.srcs/sources_1/new/T_flipflop.v" \
+"../../../../project_2.srcs/sim_1/new/D_conversion_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
