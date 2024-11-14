@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time = 0 | S = 0, R = 0, q_sr = 0 | J = 0, K = 0, q_jk = 0 | D = 0, q_d = 0
+Time = 20 | S = 1, R = 0, q_sr = 0 | J = 1, K = 0, q_jk = 0 | D = 1, q_d = 0
+Time = 25 | S = 1, R = 0, q_sr = 1 | J = 1, K = 0, q_jk = 1 | D = 1, q_d = 1
+Time = 35 | S = 1, R = 0, q_sr = 0 | J = 1, K = 0, q_jk = 1 | D = 1, q_d = 1
+Time = 40 | S = 0, R = 1, q_sr = 0 | J = 0, K = 1, q_jk = 1 | D = 0, q_d = 1
+Time = 45 | S = 0, R = 1, q_sr = 1 | J = 0, K = 1, q_jk = 1 | D = 0, q_d = 0
+Time = 55 | S = 0, R = 1, q_sr = 0 | J = 0, K = 1, q_jk = 1 | D = 0, q_d = 0
+Time = 60 | S = 1, R = 1, q_sr = 0 | J = 1, K = 1, q_jk = 1 | D = 1, q_d = 0
+Time = 65 | S = 1, R = 1, q_sr = 0 | J = 1, K = 1, q_jk = 0 | D = 1, q_d = 1
+Time = 75 | S = 1, R = 1, q_sr = 0 | J = 1, K = 1, q_jk = 1 | D = 1, q_d = 1
+Time = 80 | S = 0, R = 0, q_sr = 0 | J = 0, K = 0, q_jk = 1 | D = 1, q_d = 1
+Time = 85 | S = 0, R = 0, q_sr = 0 | J = 0, K = 0, q_jk = 0 | D = 1, q_d = 1
+$stop called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_054/project_1/project_1.srcs/sim_1/new/T_conversion_tb.v" Line 47
