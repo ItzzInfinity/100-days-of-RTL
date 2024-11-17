@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_057/project_1/project_1.srcs/sources_1/new/PISO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PISO
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_057/project_1/project_1.srcs/sim_1/new/PISO_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PISO_tb
