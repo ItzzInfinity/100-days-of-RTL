@@ -52,6 +52,10 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 44**: *Binary to BCD Converter*
 - **Day 45**: *BCD to 7-Segment Converter*
 - **Day 46**: *SR Latch*
+- **Day 47**: *JK Flip Flop*
+- **Day 48**: *D Flip Flop*
+- **Day 49**: *T Flip Flop*
+- **Day 50**: *Arithmetic Logic Unit (ALU)*
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
