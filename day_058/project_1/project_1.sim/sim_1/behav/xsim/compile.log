@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_056/src/D_flipflop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_flipflop
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_058/project_1/project_1.srcs/sources_1/new/PIPO.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIPO
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_058/project_1/project_1.srcs/sim_1/new/PIPO_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PIPO_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_058/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

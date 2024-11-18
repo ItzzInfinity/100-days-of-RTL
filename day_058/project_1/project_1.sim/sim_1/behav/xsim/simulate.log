@@ -1,0 +1,22 @@
+Time resolution is 1 ps
+		 clk: 0  reset: 1  parallel_in: 0000  parallel_out: xxxx
+		 clk: 1  reset: 1  parallel_in: 0000  parallel_out: 0000
+		 clk: 0  reset: 0  parallel_in: 0100  parallel_out: 0000
+		 clk: 1  reset: 0  parallel_in: 0100  parallel_out: 0100
+		 clk: 0  reset: 0  parallel_in: 0001  parallel_out: 0100
+		 clk: 1  reset: 0  parallel_in: 0001  parallel_out: 0001
+		 clk: 0  reset: 0  parallel_in: 1001  parallel_out: 0001
+		 clk: 1  reset: 0  parallel_in: 1001  parallel_out: 1001
+		 clk: 0  reset: 0  parallel_in: 0011  parallel_out: 1001
+		 clk: 1  reset: 0  parallel_in: 0011  parallel_out: 0011
+		 clk: 0  reset: 0  parallel_in: 1101  parallel_out: 0011
+		 clk: 1  reset: 0  parallel_in: 1101  parallel_out: 1101
+		 clk: 0  reset: 0  parallel_in: 1101  parallel_out: 1101
+		 clk: 1  reset: 0  parallel_in: 1101  parallel_out: 1101
+		 clk: 0  reset: 0  parallel_in: 0101  parallel_out: 1101
+		 clk: 1  reset: 0  parallel_in: 0101  parallel_out: 0101
+		 clk: 0  reset: 0  parallel_in: 0010  parallel_out: 0101
+		 clk: 1  reset: 0  parallel_in: 0010  parallel_out: 0010
+		 clk: 0  reset: 0  parallel_in: 0001  parallel_out: 0010
+		 clk: 1  reset: 0  parallel_in: 0001  parallel_out: 0001
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_058/project_1/project_1.srcs/sim_1/new/PIPO_tb.v" Line 31
