@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Time: 0ns, LFSR Output: 00000001
+Time: 15ns, LFSR Output: 00000010
+Time: 25ns, LFSR Output: 00000100
+Time: 35ns, LFSR Output: 00001000
+Time: 45ns, LFSR Output: 00010001
+Time: 55ns, LFSR Output: 00100011
+Time: 65ns, LFSR Output: 01000111
+Time: 75ns, LFSR Output: 10001110
+Time: 85ns, LFSR Output: 00011100
+Time: 95ns, LFSR Output: 00111000
+Time: 105ns, LFSR Output: 01110001
+Time: 115ns, LFSR Output: 11100010
+Time: 125ns, LFSR Output: 11000100
+Time: 135ns, LFSR Output: 10001001
+Time: 145ns, LFSR Output: 00010010
+Time: 155ns, LFSR Output: 00100101
+Time: 165ns, LFSR Output: 01001011
+Time: 175ns, LFSR Output: 10010111
+Time: 185ns, LFSR Output: 00101110
+Time: 195ns, LFSR Output: 01011100
+Time: 205ns, LFSR Output: 10111000
+$stop called at time : 210 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_060/project_1/project_1.srcs/sim_1/new/LFSR_tb.v" Line 29
