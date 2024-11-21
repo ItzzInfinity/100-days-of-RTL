@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+At time                    0: data_in = 11110000, shift = 000, dir = 0, data_out = 01111000
+At time                10000: data_in = 11110000, shift = 001, dir = 0, data_out = 00111100
+At time                20000: data_in = 11110000, shift = 010, dir = 0, data_out = 00011110
+At time                30000: data_in = 11110000, shift = 011, dir = 0, data_out = 00001111
+At time                40000: data_in = 11110000, shift = 100, dir = 1, data_out = 00000000
+At time                50000: data_in = 11110000, shift = 101, dir = 1, data_out = 00000000
+At time                60000: data_in = 11110000, shift = 110, dir = 1, data_out = 00000000
+At time                70000: data_in = 11110000, shift = 111, dir = 1, data_out = 11110000
+At time                80000: data_in = 11001100, shift = 001, dir = 0, data_out = 00110011
+At time                90000: data_in = 00011111, shift = 010, dir = 1, data_out = 11111000
+At time               100000: data_in = 10101010, shift = 011, dir = 0, data_out = 00001010
+At time               110000: data_in = 10101010, shift = 000, dir = 1, data_out = 01010100
+$stop called at time : 120 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_063/project_1/project_1.srcs/sim_1/new/barrel_shifter_tb.v" Line 42
