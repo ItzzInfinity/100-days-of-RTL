@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+  3 *   7 =   21
+  3 *  -7 =  -21
+ -3 *  -7 =   21
+  5 *   6 =   30
+  5 *  -6 =  -30
+ -5 *  -6 =   30
+$finish called at time : 60 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_063/project_1/project_1.srcs/sim_1/new/booth_multiplier_tb.v" Line 25
