@@ -1,0 +1,21 @@
+Time resolution is 1 ps
+Time = 0 | Reset = 1 | Count =  0
+Time = 10000 | Reset = 0 | Count =  0
+Time = 15000 | Reset = 0 | Count =  1
+Time = 25000 | Reset = 0 | Count =  2
+Time = 35000 | Reset = 0 | Count =  3
+Time = 45000 | Reset = 0 | Count =  4
+Time = 55000 | Reset = 0 | Count =  5
+Time = 65000 | Reset = 0 | Count =  6
+Time = 75000 | Reset = 0 | Count =  7
+Time = 85000 | Reset = 0 | Count =  8
+Time = 95000 | Reset = 0 | Count =  9
+Time = 105000 | Reset = 0 | Count =  0
+Time = 110000 | Reset = 1 | Count =  0
+Time = 120000 | Reset = 0 | Count =  0
+Time = 125000 | Reset = 0 | Count =  1
+Time = 135000 | Reset = 0 | Count =  2
+Time = 145000 | Reset = 0 | Count =  3
+Time = 155000 | Reset = 0 | Count =  4
+Time = 165000 | Reset = 0 | Count =  5
+$stop called at time : 170 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_065/project_1/project_1.srcs/sim_1/new/mod_n_counter_tb.v" Line 33
