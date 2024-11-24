@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_1.srcs/sources_1/new/adder_4bit.v" \
+"../../../../project_1.srcs/sources_1/new/adder_6bit.v" \
+"../../../../project_1.srcs/sources_1/new/half_adder.v" \
+"../../../../project_1.srcs/sources_1/new/vedic_mul_2_2.v" \
+"../../../../project_1.srcs/sources_1/new/vedic_mul_4_4.v" \
+"../../../../project_1.srcs/sim_1/new/test_bench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

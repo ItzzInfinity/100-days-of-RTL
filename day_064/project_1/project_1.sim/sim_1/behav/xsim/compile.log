@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sources_1/new/adder_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sources_1/new/adder_6bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_6bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sources_1/new/half_adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module half_adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sources_1/new/vedic_mul_2_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vedic_mul_2_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sources_1/new/vedic_mul_4_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vedic_mul_4_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sim_1/new/test_bench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_bench
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

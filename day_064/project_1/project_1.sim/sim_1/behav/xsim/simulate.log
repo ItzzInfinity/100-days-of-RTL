@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+ 4 *  1 =   4
+ 9 *  3 =  27
+13 * 13 = 169
+ 5 *  2 =  10
+ 1 * 13 =  13
+ 6 * 13 =  78
+$finish called at time : 60 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_064/project_1/project_1.srcs/sim_1/new/test_bench.v" Line 22
