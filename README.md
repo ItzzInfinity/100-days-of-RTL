@@ -56,6 +56,17 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 48**: *D Flip Flop*
 - **Day 49**: *T Flip Flop*
 - **Day 50**: *Arithmetic Logic Unit (ALU)*
+- **Day 51**: *SR flip flop using JK, D, T flip flops*
+- **Day 52**: *JK flip flop using SR, D, T flip flops*
+- **Day 53**: *D flip flop using SR, JK, T flip flops*
+- **Day 54**: *T flip flop using SR, JK, D flip flops*
+- **Day 55**: *Serial in Serial out (SISO) Register*
+- **Day 56**: *Serial in Parallel out (SIPO) Register*
+- **Day 57**: *Parallel in Serial out (PISO) Register*
+- **Day 58**: *Parallel in Parallel out (PIPO) Register*
+- **Day 59**: *Serial-in Serial-Out Shift Register Using JK Flip-Flop.*
+- **Day 60**: *Linear Feedback Shift Register (LFSR)*
+
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
