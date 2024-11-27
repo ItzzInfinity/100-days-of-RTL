@@ -66,7 +66,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 58**: *Parallel in Parallel out (PIPO) Register*
 - **Day 59**: *Serial-in Serial-Out Shift Register Using JK Flip-Flop.*
 - **Day 60**: *Linear Feedback Shift Register (LFSR)*
-
+- **Day 61**:
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
