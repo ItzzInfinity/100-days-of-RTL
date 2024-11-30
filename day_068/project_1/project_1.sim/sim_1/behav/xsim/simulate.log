@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+		 counter:   x
+		 counter:   1
+		 counter: 128
+		 counter:  64
+		 counter:  32
+		 counter:  16
+		 counter:   8
+		 counter:   4
+		 counter:   2
+		 counter:   1
+$finish called at time : 90 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_068/project_1/project_1.srcs/sim_1/new/ring_counter_tb.v" Line 29
