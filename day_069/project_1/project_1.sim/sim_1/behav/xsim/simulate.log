@@ -1,0 +1,26 @@
+Time resolution is 1 ps
+Time = 0, clk = 0, q = xxxx
+Time = 5, clk = 1, q = xxxx
+Time = 10, clk = 0, q = xxxx
+Time = 15, clk = 1, q = 0000
+Time = 20, clk = 0, q = 0000
+Time = 25, clk = 1, q = 0001
+Time = 30, clk = 0, q = 0001
+Time = 35, clk = 1, q = 0011
+Time = 40, clk = 0, q = 0011
+Time = 45, clk = 1, q = 0111
+Time = 50, clk = 0, q = 0111
+Time = 55, clk = 1, q = 1111
+Time = 60, clk = 0, q = 1111
+Time = 65, clk = 1, q = 1110
+Time = 70, clk = 0, q = 1110
+Time = 75, clk = 1, q = 1100
+Time = 80, clk = 0, q = 1100
+Time = 85, clk = 1, q = 1000
+Time = 90, clk = 0, q = 1000
+Time = 95, clk = 1, q = 0000
+Time = 100, clk = 0, q = 0000
+Time = 105, clk = 1, q = 0001
+Time = 110, clk = 0, q = 0001
+Time = 115, clk = 1, q = 0011
+$finish called at time : 120 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_069/project_1/project_1.srcs/sim_1/new/Johnson_Counter_tb.v" Line 39
