@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../day_048/src/D_flipflop.v" \
+"../../../../project_1.srcs/sources_1/new/fq_divider_even.v" \
+"../../../../project_1.srcs/sim_1/new/tb_fq_divider_even.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
