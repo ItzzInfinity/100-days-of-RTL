@@ -76,6 +76,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 68**: *Ring Counter*
 - **Day 69**: *Johnson Couter*
 - **Day 70**: *Clock Edge Detector*
+
 - *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
