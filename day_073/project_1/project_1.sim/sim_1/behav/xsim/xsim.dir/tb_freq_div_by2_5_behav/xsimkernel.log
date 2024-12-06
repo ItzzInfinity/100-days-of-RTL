@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_freq_div_by2_5_behav/xsimk -simmode gui -wdb tb_freq_div_by2_5_behav.wdb -simrunnum 0 -socket 48521
+Design successfully loaded
+Design Loading Memory Usage: 20244 KB (Peak: 20716 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 102240 KB (Peak: 159512 KB)
+Simulation CPU Usage: 70 ms
