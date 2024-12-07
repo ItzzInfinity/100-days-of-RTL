@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+Time=0 | Reset=1 | In=0 | Det_0110=0 | Det_0111=0
+Time=10000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=30000 | Reset=0 | In=1 | Det_0110=0 | Det_0111=0
+Time=50000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=55000 | Reset=0 | In=0 | Det_0110=1 | Det_0111=0
+Time=65000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=70000 | Reset=0 | In=1 | Det_0110=0 | Det_0111=0
+Time=95000 | Reset=0 | In=1 | Det_0110=0 | Det_0111=1
+Time=100000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=1
+Time=105000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=110000 | Reset=0 | In=1 | Det_0110=0 | Det_0111=0
+Time=120000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=130000 | Reset=0 | In=1 | Det_0110=0 | Det_0111=0
+Time=150000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+Time=155000 | Reset=0 | In=0 | Det_0110=1 | Det_0111=0
+Time=165000 | Reset=0 | In=0 | Det_0110=0 | Det_0111=0
+$finish called at time : 170 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_074/project_1/project_1.srcs/sim_1/new/seq_detector_tb.v" Line 61
