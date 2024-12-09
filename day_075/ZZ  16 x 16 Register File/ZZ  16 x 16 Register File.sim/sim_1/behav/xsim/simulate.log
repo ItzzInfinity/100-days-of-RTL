@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time = 0, we = 0, write_addr = 0000, write_data = 0000, read_addr1 = 0000, read_data1 = xxxx, read_addr2 = 0001, read_data2 = xxxx
+Time = 10, we = 1, write_addr = 0000, write_data = aaaa, read_addr1 = 0000, read_data1 = xxxx, read_addr2 = 0001, read_data2 = xxxx
+Time = 15, we = 1, write_addr = 0000, write_data = aaaa, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = xxxx
+Time = 20, we = 0, write_addr = 0000, write_data = aaaa, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = xxxx
+Time = 30, we = 1, write_addr = 0001, write_data = 5555, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = xxxx
+Time = 35, we = 1, write_addr = 0001, write_data = 5555, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = 5555
+Time = 40, we = 0, write_addr = 0001, write_data = 5555, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = 5555
+Time = 60, we = 1, write_addr = 0010, write_data = f0f0, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = 5555
+Time = 70, we = 0, write_addr = 0010, write_data = f0f0, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0001, read_data2 = 5555
+Time = 80, we = 0, write_addr = 0010, write_data = f0f0, read_addr1 = 0000, read_data1 = aaaa, read_addr2 = 0010, read_data2 = f0f0
+$finish called at time : 100 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_075/ZZ  16 x 16 Register File/ZZ  16 x 16 Register File.srcs/sim_1/new/tb_register_file.v" Line 63
