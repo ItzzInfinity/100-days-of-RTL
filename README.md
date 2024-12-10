@@ -68,7 +68,7 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 60**: *Linear Feedback Shift Register (LFSR)*
 - **Day 61**: *Universal Shift Register*
 - **Day 62**: *Barrel Shifter*
-- **Day 63**: *Booth's Multiplication Algorithm *
+- **Day 63**: *Booth's Multiplication Algorithm*
 - **Day 64**: *Vedic Multiplier [4×4] using [2×2]*
 - **Day 65**: *Mod-N Counter*
 - **Day 66**: *Specific Sequence Counter*
