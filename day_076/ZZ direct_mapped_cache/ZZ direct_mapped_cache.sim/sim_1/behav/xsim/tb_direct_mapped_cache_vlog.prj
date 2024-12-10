@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ZZ direct_mapped_cache.srcs/sources_1/new/direct_mapped_cache.v" \
+"../../../../ZZ direct_mapped_cache.srcs/sim_1/new/tb_direct_mapped_cache.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

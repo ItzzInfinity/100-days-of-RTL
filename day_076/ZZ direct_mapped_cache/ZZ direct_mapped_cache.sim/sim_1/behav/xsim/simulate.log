@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Test Case 1 Passed: Cache Hit and Correct Data
+Test Case 2 Passed: Cache Miss
+Test Case 3 Passed: Cache Updated and Hit
+$stop called at time : 60 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_076/ZZ direct_mapped_cache/ZZ direct_mapped_cache.srcs/sim_1/new/tb_direct_mapped_cache.v" Line 107
