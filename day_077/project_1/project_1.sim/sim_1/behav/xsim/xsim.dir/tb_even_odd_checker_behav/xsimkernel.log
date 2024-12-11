@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_even_odd_checker_behav/xsimk -simmode gui -wdb tb_even_odd_checker_behav.wdb -simrunnum 0 -socket 45039
+Design successfully loaded
+Design Loading Memory Usage: 20244 KB (Peak: 20716 KB)
+Design Loading CPU Usage: 50 ms
