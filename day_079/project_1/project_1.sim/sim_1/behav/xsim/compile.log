@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_079/project_1/project_1.srcs/sources_1/new/palindrome_checker.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module palindrome_checker
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_079/project_1/project_1.srcs/sim_1/new/tb_palindrome_checker.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_palindrome_checker

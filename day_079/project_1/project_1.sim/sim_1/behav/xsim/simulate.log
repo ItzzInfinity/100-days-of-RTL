@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time	Number	Is_Palindrome
+10000	123		0
+20000	 27		0
+30000	121		1
+$finish called at time : 30 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_079/project_1/project_1.srcs/sim_1/new/tb_palindrome_checker.v" Line 30
