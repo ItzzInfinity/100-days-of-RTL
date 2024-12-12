@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time = 0, Number =   0, Is Prime = 0
+Time = 10, Number =   1, Is Prime = 0
+Time = 20, Number =   2, Is Prime = 1
+Time = 30, Number =   3, Is Prime = 1
+Time = 40, Number =   4, Is Prime = 0
+Time = 50, Number =  17, Is Prime = 1
+Time = 60, Number =  20, Is Prime = 0
+Time = 70, Number =  23, Is Prime = 1
+$finish called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_078/project_1/project_1.srcs/sim_1/new/tb_prime_checker.v" Line 33
