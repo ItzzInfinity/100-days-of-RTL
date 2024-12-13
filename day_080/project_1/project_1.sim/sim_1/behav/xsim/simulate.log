@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=0, num=  153, is_armstrong=1
+Time=10000, num=  370, is_armstrong=1
+Time=20000, num=  371, is_armstrong=1
+Time=30000, num=  407, is_armstrong=1
+Time=40000, num=  123, is_armstrong=0
+Time=50000, num= 9474, is_armstrong=0
+Time=60000, num= 9475, is_armstrong=0
+Time=70000, num=    0, is_armstrong=1
+$stop called at time : 80 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_080/project_1/project_1.srcs/sim_1/new/tb_Armstrong_Checker.v" Line 30
