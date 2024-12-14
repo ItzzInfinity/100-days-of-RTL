@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Factorial of 5 is 120 (done=1)
+Factorial of 4 is 24 (done=1)
+Factorial of 3 is 6 (done=1)
+$finish called at time : 430 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_081/project_1/project_1.srcs/sim_1/new/tb_factorial_calculator.v" Line 46
