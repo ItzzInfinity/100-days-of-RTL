@@ -76,6 +76,17 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 68**: *Ring Counter*
 - **Day 69**: *Johnson Couter*
 - **Day 70**: *Clock Edge Detector*
+- **Day 71**: *Frequency Divider {even}*
+- **Day 72**: *Frequency Divider {odd}*
+- **Day 73**: *Frequency Divider {decimal}*
+- **Day 74**: *Two sequence detector using FSM*
+- **Day 75**: *16x16 Register File*
+- **Day 76**: *Cache Memory (Direct Mapping)*
+- **Day 77**: *Checking if Number is an Even or Odd Number*
+- **Day 78**: *Checking if Number is a Prime Number *
+- **Day 79**: *Checking if Number is a Pallindrome Number*
+- **Day 80**: *Checking if Number is an Armstrong Number*
+
 
 - *... (Tasks will be added as I progress)*
 
