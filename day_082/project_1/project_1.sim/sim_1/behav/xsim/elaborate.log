@@ -1,0 +1,16 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/itzzinfinity/Xilinx/Vivado/2024.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_digital_clock_behav xil_defaultlib.tb_digital_clock xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.digital_clock
+Compiling module xil_defaultlib.tb_digital_clock
+WARNING: [XSIM 43-3368] "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_082/project_1/project_1.srcs/sim_1/new/tb_digital_clock.v" Line 36. Negative delay (-1474836480000.000000) treated as 0.
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_digital_clock_behav
