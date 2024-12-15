@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_083/project_1/project_1.srcs/sources_1/new/stopwatch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stopwatch
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_083/project_1/project_1.srcs/sim_1/new/stopwatch_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stopwatch_tb
