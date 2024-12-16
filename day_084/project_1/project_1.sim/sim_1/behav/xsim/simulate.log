@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time = 0 | Reset = 1 | Start = 0 | Done = 0 | State = 0001
+Time = 15000 | Reset = 0 | Start = 0 | Done = 0 | State = 0001
+Time = 25000 | Reset = 0 | Start = 1 | Done = 0 | State = 0010
+Time = 35000 | Reset = 0 | Start = 0 | Done = 0 | State = 0100
+Time = 55000 | Reset = 0 | Start = 0 | Done = 1 | State = 1000
+Time = 65000 | Reset = 0 | Start = 0 | Done = 0 | State = 0001
+$finish called at time : 85 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_084/project_1/project_1.srcs/sim_1/new/tb_fsm_one_hot.v" Line 54
