@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+Time=0 | push=0, pop=0, data_in=  0, data_out=  x, full=0, empty=1
+Time=10000 | push=1, pop=0, data_in=  1, data_out=  x, full=0, empty=1
+Time=15000 | push=1, pop=0, data_in=  1, data_out=  x, full=0, empty=0
+Time=20000 | push=1, pop=0, data_in=  2, data_out=  x, full=0, empty=0
+Time=30000 | push=1, pop=0, data_in=  3, data_out=  x, full=0, empty=0
+Time=40000 | push=1, pop=0, data_in=  4, data_out=  x, full=0, empty=0
+Time=50000 | push=1, pop=0, data_in=  5, data_out=  x, full=0, empty=0
+Time=60000 | push=1, pop=0, data_in=  6, data_out=  x, full=0, empty=0
+Time=70000 | push=1, pop=0, data_in=  7, data_out=  x, full=0, empty=0
+Time=80000 | push=1, pop=0, data_in=  8, data_out=  x, full=0, empty=0
+Time=90000 | push=1, pop=0, data_in=  9, data_out=  x, full=0, empty=0
+Time=100000 | push=1, pop=0, data_in= 10, data_out=  x, full=0, empty=0
+Time=110000 | push=0, pop=1, data_in= 10, data_out=  x, full=0, empty=0
+Time=115000 | push=0, pop=1, data_in= 10, data_out= 10, full=0, empty=0
+Time=125000 | push=0, pop=1, data_in= 10, data_out=  9, full=0, empty=0
+Time=135000 | push=0, pop=1, data_in= 10, data_out=  8, full=0, empty=0
+Time=145000 | push=0, pop=1, data_in= 10, data_out=  7, full=0, empty=0
+Time=155000 | push=0, pop=1, data_in= 10, data_out=  6, full=0, empty=0
+Time=165000 | push=0, pop=1, data_in= 10, data_out=  5, full=0, empty=0
+Time=175000 | push=0, pop=1, data_in= 10, data_out=  4, full=0, empty=0
+Time=185000 | push=0, pop=1, data_in= 10, data_out=  3, full=0, empty=0
+Time=195000 | push=0, pop=1, data_in= 10, data_out=  2, full=0, empty=0
+Time=205000 | push=0, pop=1, data_in= 10, data_out=  1, full=0, empty=1
+$finish called at time : 210 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_090/project_1/project_1.srcs/sim_1/new/lifo_stack_tb.v" Line 77
