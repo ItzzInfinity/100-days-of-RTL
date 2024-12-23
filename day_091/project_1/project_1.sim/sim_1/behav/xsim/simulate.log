@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Time: 0 | Reset: 1 | Main_road: 01000111 | Cross_road: 01010010
+Time: 20000 | Reset: 0 | Main_road: 01000111 | Cross_road: 01010010
+Time: 25000 | Reset: 0 | Main_road: 01011001 | Cross_road: 01010010
+Time: 65000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01000111
+Time: 175000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01011001
+Time: 215000 | Reset: 0 | Main_road: 01000111 | Cross_road: 01010010
+Time: 325000 | Reset: 0 | Main_road: 01011001 | Cross_road: 01010010
+Time: 365000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01000111
+Time: 475000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01011001
+Time: 515000 | Reset: 0 | Main_road: 01000111 | Cross_road: 01010010
+Time: 625000 | Reset: 0 | Main_road: 01011001 | Cross_road: 01010010
+Time: 665000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01000111
+Time: 775000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01011001
+Time: 815000 | Reset: 0 | Main_road: 01000111 | Cross_road: 01010010
+Time: 925000 | Reset: 0 | Main_road: 01011001 | Cross_road: 01010010
+Time: 965000 | Reset: 0 | Main_road: 01010010 | Cross_road: 01000111
