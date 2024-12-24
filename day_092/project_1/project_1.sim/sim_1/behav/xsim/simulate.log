@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=0, State=000, Motor=0, WaterValve=0, DrainValve=0, Buzzer=0
+Time=15, State=001, Motor=0, WaterValve=1, DrainValve=0, Buzzer=0
+Time=25, State=010, Motor=1, WaterValve=0, DrainValve=0, Buzzer=0
+Time=45, State=011, Motor=1, WaterValve=0, DrainValve=0, Buzzer=0
+Time=55, State=100, Motor=1, WaterValve=0, DrainValve=0, Buzzer=0
+Time=65, State=101, Motor=0, WaterValve=0, DrainValve=1, Buzzer=0
+Time=75, State=110, Motor=0, WaterValve=0, DrainValve=0, Buzzer=1
+Time=115, State=000, Motor=0, WaterValve=0, DrainValve=0, Buzzer=0
+$finish called at time : 120 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_092/project_1/project_1.srcs/sim_1/new/washing_machine_fsm_tb.v" Line 71
