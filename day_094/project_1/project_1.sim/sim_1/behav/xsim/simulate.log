@@ -1,0 +1,25 @@
+Time resolution is 1 ps
+Time=0 | reset=1 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=10000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=20000 | reset=0 | coin=01 | select_item=0 | dispense=0 | change= 0
+Time=30000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=40000 | reset=0 | coin=01 | select_item=0 | dispense=0 | change= 0
+Time=50000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=60000 | reset=0 | coin=00 | select_item=1 | dispense=0 | change= 0
+Time=65000 | reset=0 | coin=00 | select_item=1 | dispense=1 | change= 0
+Time=70000 | reset=0 | coin=00 | select_item=0 | dispense=1 | change= 0
+Time=75000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=80000 | reset=0 | coin=10 | select_item=0 | dispense=0 | change= 0
+Time=90000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=100000 | reset=0 | coin=00 | select_item=1 | dispense=0 | change= 0
+Time=110000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=160000 | reset=0 | coin=10 | select_item=0 | dispense=0 | change= 0
+Time=165000 | reset=0 | coin=10 | select_item=0 | dispense=1 | change= 2
+Time=170000 | reset=0 | coin=00 | select_item=0 | dispense=1 | change= 2
+Time=175000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=180000 | reset=0 | coin=01 | select_item=0 | dispense=0 | change= 0
+Time=190000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=200000 | reset=0 | coin=00 | select_item=1 | dispense=0 | change= 0
+Time=210000 | reset=0 | coin=00 | select_item=0 | dispense=0 | change= 0
+Time=220000 | reset=1 | coin=00 | select_item=0 | dispense=0 | change= 0
+$finish called at time : 240 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_094/project_1/project_1.srcs/sim_1/new/vending_machine_tb.v" Line 61
