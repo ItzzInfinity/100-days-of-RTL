@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time=0 | start=0 | base=  0 | exponent=  0 | result=    0 | done=0
+Time=20000 | start=1 | base=  3 | exponent=  4 | result=    0 | done=0
+Time=30000 | start=0 | base=  3 | exponent=  4 | result=    0 | done=0
+Time=75000 | start=0 | base=  3 | exponent=  4 | result=   81 | done=0
+Time=85000 | start=0 | base=  3 | exponent=  4 | result=   81 | done=1
+Time=105000 | start=1 | base=  5 | exponent=  3 | result=   81 | done=0
+Time=115000 | start=0 | base=  5 | exponent=  3 | result=   81 | done=0
+Time=145000 | start=0 | base=  5 | exponent=  3 | result=  125 | done=0
+Time=155000 | start=0 | base=  5 | exponent=  3 | result=  125 | done=1
+Time=175000 | start=1 | base=  2 | exponent=  0 | result=  125 | done=0
+Time=185000 | start=0 | base=  2 | exponent=  0 | result=    1 | done=0
+Time=195000 | start=0 | base=  2 | exponent=  0 | result=    1 | done=1
+$finish called at time : 205 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_095/project_1/project_1.srcs/sim_1/new/exponentiation_tb.v" Line 62
