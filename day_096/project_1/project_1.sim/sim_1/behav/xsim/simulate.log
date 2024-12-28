@@ -1,0 +1,74 @@
+Time resolution is 1 ps
+Time=0 | Reset=1 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 0 | Parking Full=0
+Time=10000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 0 | Parking Full=0
+Time=20000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 0 | Parking Full=0
+Time=25000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=30000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=40000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=45000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=50000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=60000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 2 | Parking Full=0
+Time=65000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 1 | Parking Full=0
+Time=70000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=80000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=85000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=90000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=100000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=105000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 3 | Parking Full=0
+Time=110000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 3 | Parking Full=0
+Time=120000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 3 | Parking Full=0
+Time=125000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 4 | Parking Full=0
+Time=130000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 4 | Parking Full=0
+Time=140000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 4 | Parking Full=0
+Time=145000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 5 | Parking Full=0
+Time=150000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 5 | Parking Full=0
+Time=160000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 5 | Parking Full=0
+Time=165000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 6 | Parking Full=0
+Time=170000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 6 | Parking Full=0
+Time=180000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 6 | Parking Full=0
+Time=185000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 7 | Parking Full=0
+Time=190000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 7 | Parking Full=0
+Time=200000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 7 | Parking Full=0
+Time=205000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 8 | Parking Full=0
+Time=210000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 8 | Parking Full=0
+Time=220000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 8 | Parking Full=0
+Time=225000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 9 | Parking Full=0
+Time=230000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 9 | Parking Full=0
+Time=240000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count= 9 | Parking Full=0
+Time=245000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=250000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=260000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=270000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=280000 | Reset=0 | Entry Sensor=1 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=290000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count=10 | Parking Full=1
+Time=300000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count=10 | Parking Full=1
+Time=305000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 9 | Parking Full=0
+Time=310000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 9 | Parking Full=0
+Time=320000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 9 | Parking Full=0
+Time=325000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 8 | Parking Full=0
+Time=330000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 8 | Parking Full=0
+Time=340000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 8 | Parking Full=0
+Time=345000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 7 | Parking Full=0
+Time=350000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 7 | Parking Full=0
+Time=360000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 7 | Parking Full=0
+Time=365000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 6 | Parking Full=0
+Time=370000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 6 | Parking Full=0
+Time=380000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 6 | Parking Full=0
+Time=385000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 5 | Parking Full=0
+Time=390000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 5 | Parking Full=0
+Time=400000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 5 | Parking Full=0
+Time=405000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 4 | Parking Full=0
+Time=410000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 4 | Parking Full=0
+Time=420000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 4 | Parking Full=0
+Time=425000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 3 | Parking Full=0
+Time=430000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 3 | Parking Full=0
+Time=440000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 3 | Parking Full=0
+Time=445000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 2 | Parking Full=0
+Time=450000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 2 | Parking Full=0
+Time=460000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 2 | Parking Full=0
+Time=465000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 1 | Parking Full=0
+Time=470000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 1 | Parking Full=0
+Time=480000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 1 | Parking Full=0
+Time=485000 | Reset=0 | Entry Sensor=0 | Exit Sensor=1 | Car Count= 0 | Parking Full=0
+Time=490000 | Reset=0 | Entry Sensor=0 | Exit Sensor=0 | Car Count= 0 | Parking Full=0
+$finish called at time : 540 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_096/project_1/project_1.srcs/sim_1/new/car_parking_system_tb.v" Line 61
