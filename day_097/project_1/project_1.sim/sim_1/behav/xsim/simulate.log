@@ -1,0 +1,30 @@
+Time resolution is 1 ps
+Time: 0 | State: 00 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+Time: 15000 | State: 10 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+Time: 25000 | State: 10 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 35000 | State: 11 | Current Floor: 0 | Door Open: 1 | Emergency Stop: 0
+Time: 45000 | State: 00 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 55000 | State: 01 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 65000 | State: 01 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+Time: 75000 | State: 01 | Current Floor: 2 | Door Open: 0 | Emergency Stop: 0
+Time: 85000 | State: 01 | Current Floor: 3 | Door Open: 0 | Emergency Stop: 0
+Time: 90000 | State: 01 | Current Floor: 3 | Door Open: 0 | Emergency Stop: 1
+Time: 95000 | State: 00 | Current Floor: 3 | Door Open: 1 | Emergency Stop: 1
+Time: 100000 | State: 00 | Current Floor: 3 | Door Open: 1 | Emergency Stop: 0
+Time: 105000 | State: 10 | Current Floor: 3 | Door Open: 1 | Emergency Stop: 0
+Time: 115000 | State: 10 | Current Floor: 2 | Door Open: 1 | Emergency Stop: 0
+Time: 125000 | State: 10 | Current Floor: 1 | Door Open: 1 | Emergency Stop: 0
+Time: 135000 | State: 10 | Current Floor: 0 | Door Open: 1 | Emergency Stop: 0
+Time: 145000 | State: 11 | Current Floor: 0 | Door Open: 1 | Emergency Stop: 0
+Time: 155000 | State: 00 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 175000 | State: 01 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 185000 | State: 01 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+Time: 195000 | State: 01 | Current Floor: 2 | Door Open: 0 | Emergency Stop: 0
+Time: 205000 | State: 01 | Current Floor: 3 | Door Open: 0 | Emergency Stop: 0
+Time: 215000 | State: 01 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 225000 | State: 01 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+Time: 235000 | State: 01 | Current Floor: 2 | Door Open: 0 | Emergency Stop: 0
+Time: 245000 | State: 01 | Current Floor: 3 | Door Open: 0 | Emergency Stop: 0
+Time: 255000 | State: 01 | Current Floor: 0 | Door Open: 0 | Emergency Stop: 0
+Time: 265000 | State: 01 | Current Floor: 1 | Door Open: 0 | Emergency Stop: 0
+$finish called at time : 270 ns : File "/home/itzzinfinity/Cozy Drive/100daysofRTL/day_097/project_1/project_1.srcs/sim_1/new/elevator_control_tb.v" Line 57
