@@ -1,8 +1,44 @@
 # 🚀 100 Days of RTL Challenge
 
+
+  ![100 Days Challenge](https://img.shields.io/badge/Challenge-100%20Days%20of%20RTL-orange)
+  ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
+  ![Vivado](https://img.shields.io/badge/Tool-Vivado%202024.1-009688?logo=xilinx&logoColor=white)
+  ![License](https://img.shields.io/badge/License-MIT-yellow)  
+  ![Hardware Design](https://img.shields.io/badge/Project-Hardware%20Design-blueviolet)
+  ![Progress](https://img.shields.io/badge/Progress-100%2F100%20Days-green)
+
+
+
+
+
+
 Welcome to my **100 Days of RTL Challenge** repository! 🎉
 
 In this project, I will be coding various digital designs using **Verilog** and **RTL** design techniques as part of a 100-day challenge to improve my hardware description language (HDL) skills.
+
+## 📂 Repository Structure
+
+The repository is organized as follows:
+
+```
+├── 100-days-of-RTL
+│   ├── day_xxx
+│   │   ├── src             # Contains Verilog source files for the day's project
+│   │   ├── images          # Visuals or screenshots of waveforms, RTL diagrams, etc.
+│   │   ├── <Project Folder> # Vivado project files for the design
+│   │   ├── <Day_XXX>.pdf   # Documentation for the day's design
+│   ├── day_xxy
+│   ├── day_xyz
+│   ├── LICENSE             # License file
+│   └── README.md           # This readme file
+```
+
+Each day's folder includes all necessary files to reproduce the design. 
+
+### 🖥️ Vivado Projects Ready to Use
+
+I have uploaded complete Vivado project folders for each design. You can simply `clone` this repository and open these projects natively in ![Vivado](https://img.shields.io/badge/-Vivado-007ACC?style=plastic&logo=xilinx&logoColor=white) for simulation, synthesis, or further modifications. This ensures a seamless experience for anyone looking to explore or build upon my designs.
 
 ## 📅 Progress
 
@@ -93,11 +129,11 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 85**: *Square Root and Cube Root of a Number*
 - **Day 86**: *Single Port RAM*
 - **Day 87**: *Dual Port RAM*
-- **Day 88**: *ROM [15*15]*
+- **Day 88**: *ROM [15* * *15]*
 - **Day 89**: *Synchronous FIFO(First In First Out)*
-- **Day 90**: *Synchronous LIFO(Last In First Out) *
-- **Day 91**: *Trafic Light Controller via FSM *
-- **Day 92**: *Washing Machine via FSM *
+- **Day 90**: *Synchronous LIFO(Last In First Out)*
+- **Day 91**: *Trafic Light Controller via FSM*
+- **Day 92**: *Washing Machine via FSM*
 - **Day 93**: *PWM (Pulse Width Modulation)*
 - **Day 94**: *Vending Machine*
 - **Day 95**: *Exponentiation Circuit*
@@ -106,7 +142,6 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 98**: *UART Protocol Demo*
 - **Day 99**: *Sine Wave Generator*
 - **Day 100**: *Synthesis and Implementation in FPGA (End-to-End Design) of a Binary to sevseg decoder*
-
 
 ## 🔧 Tools & Environment
 
