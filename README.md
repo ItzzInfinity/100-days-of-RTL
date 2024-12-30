@@ -83,12 +83,30 @@ In this project, I will be coding various digital designs using **Verilog** and 
 - **Day 75**: *16x16 Register File*
 - **Day 76**: *Cache Memory (Direct Mapping)*
 - **Day 77**: *Checking if Number is an Even or Odd Number*
-- **Day 78**: *Checking if Number is a Prime Number *
+- **Day 78**: *Checking if Number is a Prime Number*
 - **Day 79**: *Checking if Number is a Pallindrome Number*
 - **Day 80**: *Checking if Number is an Armstrong Number*
+- **Day 81**: *Factorial of a Number*
+- **Day 82**: *Digital Clock*
+- **Day 83**: *Stopwatch*
+- **Day 84**: *One-HOT FSM*
+- **Day 85**: *Square Root and Cube Root of a Number*
+- **Day 86**: *Single Port RAM*
+- **Day 87**: *Dual Port RAM*
+- **Day 88**: *ROM [15*15]*
+- **Day 89**: *Synchronous FIFO(First In First Out)*
+- **Day 90**: *Synchronous LIFO(Last In First Out) *
+- **Day 91**: *Trafic Light Controller via FSM *
+- **Day 92**: *Washing Machine via FSM *
+- **Day 93**: *PWM (Pulse Width Modulation)*
+- **Day 94**: *Vending Machine*
+- **Day 95**: *Exponentiation Circuit*
+- **Day 96**: *Car Parking System*
+- **Day 97**: *Elevator Control System*
+- **Day 98**: *UART Protocol Demo*
+- **Day 99**: *Sine Wave Generator*
+- **Day 100**: *Synthesis and Implementation in FPGA (End-to-End Design) of a Binary to sevseg decoder*
 
-
-- *... (Tasks will be added as I progress)*
 
 ## 🔧 Tools & Environment
 
