@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../UART_trial.srcs/sources_1/new/UART_baudrate_generator.v" \
+"../../../../UART_trial.srcs/sources_1/new/UART_master.v" \
+"../../../../UART_trial.srcs/sources_1/new/UART_rx.v" \
+"../../../../UART_trial.srcs/sources_1/new/UART_tx.v" \
+"../../../../UART_trial.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

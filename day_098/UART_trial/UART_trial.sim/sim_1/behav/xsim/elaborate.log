@@ -1,0 +1,26 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: /home/itzzinfinity/Xilinx/Vivado/2024.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_master.v" Line 1. Module UART_master doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_rx.v" Line 1. Module UART_rs232_rx doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_tx.v" Line 1. Module UART_rs232_tx doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_baudrate_generator.v" Line 2. Module UART_BaudRate_generator doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_master.v" Line 1. Module UART_master doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_rx.v" Line 1. Module UART_rs232_rx doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_tx.v" Line 1. Module UART_rs232_tx doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_baudrate_generator.v" Line 2. Module UART_BaudRate_generator doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.UART_rs232_rx
+Compiling module xil_defaultlib.UART_rs232_tx
+Compiling module xil_defaultlib.UART_BaudRate_generator
+Compiling module xil_defaultlib.UART_master
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav

@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+18:54:44
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sim_1/new/tb.v,1734887298,verilog,,,,tb,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_baudrate_generator.v,1734888198,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_master.v,,UART_BaudRate_generator,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_master.v,1729439302,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_rx.v,,UART_master,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_rx.v,1538654606,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_tx.v,,UART_rs232_rx,,,,,,,,
+/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sources_1/new/UART_tx.v,1538643364,verilog,,/home/itzzinfinity/Cozy Drive/100daysofRTL/UART_trial/UART_trial.srcs/sim_1/new/tb.v,,UART_rs232_tx,,,,,,,,
