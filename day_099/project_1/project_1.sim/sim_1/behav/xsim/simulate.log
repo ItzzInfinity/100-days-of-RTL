@@ -1,0 +1,95 @@
+Time resolution is 1 ps
+Time=0 | freq_control=   0 | sine_out=  x
+Time=5000 | freq_control=   0 | sine_out=127
+Time=20000 | freq_control=  10 | sine_out=127
+Time=35000 | freq_control=  10 | sine_out=134
+Time=45000 | freq_control=  10 | sine_out=142
+Time=55000 | freq_control=  10 | sine_out=150
+Time=65000 | freq_control=  10 | sine_out=157
+Time=75000 | freq_control=  10 | sine_out=165
+Time=85000 | freq_control=  10 | sine_out=172
+Time=95000 | freq_control=  10 | sine_out=179
+Time=105000 | freq_control=  10 | sine_out=186
+Time=115000 | freq_control=  10 | sine_out=193
+Time=125000 | freq_control=  10 | sine_out=200
+Time=135000 | freq_control=  10 | sine_out=206
+Time=145000 | freq_control=  10 | sine_out=212
+Time=155000 | freq_control=  10 | sine_out=217
+Time=165000 | freq_control=  10 | sine_out=223
+Time=175000 | freq_control=  10 | sine_out=228
+Time=185000 | freq_control=  10 | sine_out=232
+Time=195000 | freq_control=  10 | sine_out=236
+Time=205000 | freq_control=  10 | sine_out=240
+Time=215000 | freq_control=  10 | sine_out=243
+Time=225000 | freq_control=  10 | sine_out=246
+Time=235000 | freq_control=  10 | sine_out=248
+Time=245000 | freq_control=  10 | sine_out=250
+Time=255000 | freq_control=  10 | sine_out=252
+Time=265000 | freq_control=  10 | sine_out=253
+Time=305000 | freq_control=  10 | sine_out=252
+Time=315000 | freq_control=  10 | sine_out=251
+Time=325000 | freq_control=  10 | sine_out=249
+Time=335000 | freq_control=  10 | sine_out=247
+Time=345000 | freq_control=  10 | sine_out=244
+Time=355000 | freq_control=  10 | sine_out=241
+Time=365000 | freq_control=  10 | sine_out=237
+Time=375000 | freq_control=  10 | sine_out=233
+Time=385000 | freq_control=  10 | sine_out=229
+Time=395000 | freq_control=  10 | sine_out=224
+Time=405000 | freq_control=  10 | sine_out=218
+Time=415000 | freq_control=  10 | sine_out=213
+Time=425000 | freq_control=  10 | sine_out=207
+Time=435000 | freq_control=  10 | sine_out=201
+Time=445000 | freq_control=  10 | sine_out=194
+Time=455000 | freq_control=  10 | sine_out=188
+Time=465000 | freq_control=  10 | sine_out=181
+Time=475000 | freq_control=  10 | sine_out=174
+Time=485000 | freq_control=  10 | sine_out=166
+Time=495000 | freq_control=  10 | sine_out=159
+Time=505000 | freq_control=  10 | sine_out=151
+Time=515000 | freq_control=  10 | sine_out=144
+Time=525000 | freq_control=  10 | sine_out=136
+Time=535000 | freq_control=  10 | sine_out=128
+Time=545000 | freq_control=  10 | sine_out=120
+Time=555000 | freq_control=  10 | sine_out=113
+Time=565000 | freq_control=  10 | sine_out=105
+Time=575000 | freq_control=  10 | sine_out= 97
+Time=585000 | freq_control=  10 | sine_out= 90
+Time=595000 | freq_control=  10 | sine_out= 82
+Time=605000 | freq_control=  10 | sine_out= 75
+Time=615000 | freq_control=  10 | sine_out= 68
+Time=625000 | freq_control=  10 | sine_out= 61
+Time=635000 | freq_control=  10 | sine_out= 55
+Time=645000 | freq_control=  10 | sine_out= 48
+Time=655000 | freq_control=  10 | sine_out= 42
+Time=665000 | freq_control=  10 | sine_out= 37
+Time=675000 | freq_control=  10 | sine_out= 31
+Time=685000 | freq_control=  10 | sine_out= 26
+Time=695000 | freq_control=  10 | sine_out= 22
+Time=705000 | freq_control=  10 | sine_out= 18
+Time=715000 | freq_control=  10 | sine_out= 14
+Time=725000 | freq_control=  10 | sine_out= 10
+Time=735000 | freq_control=  10 | sine_out=  7
+Time=745000 | freq_control=  10 | sine_out=  5
+Time=755000 | freq_control=  10 | sine_out=  3
+Time=765000 | freq_control=  10 | sine_out=  1
+Time=775000 | freq_control=  10 | sine_out=  0
+Time=815000 | freq_control=  10 | sine_out=  1
+Time=825000 | freq_control=  10 | sine_out=  2
+Time=835000 | freq_control=  10 | sine_out=  4
+Time=845000 | freq_control=  10 | sine_out=  6
+Time=855000 | freq_control=  10 | sine_out=  9
+Time=865000 | freq_control=  10 | sine_out= 12
+Time=875000 | freq_control=  10 | sine_out= 15
+Time=885000 | freq_control=  10 | sine_out= 19
+Time=895000 | freq_control=  10 | sine_out= 24
+Time=905000 | freq_control=  10 | sine_out= 28
+Time=915000 | freq_control=  10 | sine_out= 33
+Time=925000 | freq_control=  10 | sine_out= 39
+Time=935000 | freq_control=  10 | sine_out= 45
+Time=945000 | freq_control=  10 | sine_out= 51
+Time=955000 | freq_control=  10 | sine_out= 57
+Time=965000 | freq_control=  10 | sine_out= 64
+Time=975000 | freq_control=  10 | sine_out= 71
+Time=985000 | freq_control=  10 | sine_out= 78
+Time=995000 | freq_control=  10 | sine_out= 85
