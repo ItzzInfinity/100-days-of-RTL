@@ -152,3 +152,6 @@ I have uploaded complete Vivado project folders for each design. You can simply 
 
 This project is licensed under the MIT License. See the [`LICENSE`](https://github.com/ItzzInfinity/100-days-of-RTL/tree/main?tab=MIT-1-ov-file) file for details.
 
+
+![](https://komarev.com/ghpvc/?username=ItzzInfinity&label=Page%20views&color=0e75b6&style=flat)
+
